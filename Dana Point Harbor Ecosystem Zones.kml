@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dana Point Harbor Ecosystem Zones</name>
+	<gx:CascadingStyle kml:id="__managed_style_2342FE188B21EB7579AB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0654242FBC21EB7579AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1177A361F021EB7579AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2342FE188B21EB7579AB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_148959E26A21EB73B1C8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0CA87EC67F21EB73B1C8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>0.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1177A361F021EB7579AB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E4B4015C521EB73B1C7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0CA87EC67F21EB73B1C8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_148959E26A21EB73B1C8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0E95C037FC21EB734257">
+		<name>Kelp beds</name>
+		<LookAt>
+			<longitude>-117.7116977243396</longitude>
+			<latitude>33.45906597959322</latitude>
+			<altitude>0.4298135834392514</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1031.760940933455</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E4B4015C521EB73B1C7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-117.7095605890909,33.46033117723353,0.4296562674641047 -117.7113819298339,33.46010449398526,0.4299651743323296 -117.7148531816301,33.45983780848067,8.534646185149601 -117.7182943533496,33.4555371726471,-3.010842005411549 -117.6879276518428,33.44536429322828,-2.903186382380223 -117.6899087676153,33.45375377559141,-0.7510384063973663 -117.6946271278509,33.45550383349121,-0.7573787685669542 -117.7047537892495,33.4578752053398,-0.7552010305294532 -117.7074539364517,33.46045186899295,2.195339145216162 -117.7084223403254,33.46083076989295,4.76432716647105 -117.7095605890909,33.46033117723353,0.4296562674641047 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0EE40810FF21EB7546CE">
+		<name>Intertidal</name>
+		<LookAt>
+			<longitude>-117.7065933602143</longitude>
+			<latitude>33.46035307807571</latitude>
+			<altitude>0.1014272104773961</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>432.1624716720545</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0654242FBC21EB7579AB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-117.7071493936807,33.4602075611614,0.4298457794221511 -117.7047501713274,33.45788720164758,-0.5155256126893193 -117.6948311209443,33.45557933800526,-0.5107695973107329 -117.6914454792953,33.45419361340806,-0.5155072463091626 -117.6913549003191,33.45425540197932,-0.5155143054046707 -117.6913235677729,33.45435854151949,-0.5155079748530877 -117.6913609118477,33.45441794805539,-0.4753998825587402 -117.6947495709302,33.45576765336431,-0.5154944543510198 -117.7046222042945,33.45805995179858,-0.4753910558600583 -117.7068703237706,33.46023883040118,-0.0734029288012128 -117.7071493936807,33.4602075611614,0.4298457794221511 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
